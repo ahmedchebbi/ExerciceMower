@@ -1,0 +1,20 @@
+{
+  "name": "lawn_mower",
+  "version": "1.0.0",
+  "description": "Lawn mower technical challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "author": "Ahmed Chebbi",
+  "license": "ahmed",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-spies": "^1.0.0",
+    "mocha": "^5.0.1"
+  },
+  "dependencies": {
+    "npm": "^6.0.0"
+  }
+}
